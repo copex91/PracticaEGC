@@ -1,4 +1,4 @@
-def holamndo:
+def holamndo():
  print "hola mndo"
 
 
